@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.checkbox-parts {
+	display: none;
+}
+
+td {
+	position: relative;
+	margin: 10px;
+}
+
+input[type="checkbox"]:checked + label{
+	position: relative;
+	top: -10px;
+}
