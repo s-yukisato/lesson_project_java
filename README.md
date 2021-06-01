@@ -1,1 +1,3 @@
-# lesson_project_java
+# Lesson
+
+#### in Programing class
