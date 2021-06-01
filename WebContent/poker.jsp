@@ -20,7 +20,7 @@ String label = model.getButtonLabel();
 	<p>チップ：<%= model.getChips() %></p>
 	<hr>
 	<%= model.getMessage() %>
-	<form action="/poker/PokerServlet" method="POST">
+	<form action="/s1932058/PokerServlet" method="POST">
 		<table>
 			<tr align="center">
 				<td>
